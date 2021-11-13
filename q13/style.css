@@ -1,0 +1,16 @@
+:root{
+    --primary-color:blue;
+    --secondary-color:green;
+}
+.btn-primary{
+    background-color: var(--primary-color);
+}
+.btn-secondary{
+    background-color: var(--secondary-color);
+}
+.h1-primary{
+    color: var(--primary-color);
+}
+.h2-primary{
+    color:var(--secondary-color);
+}
